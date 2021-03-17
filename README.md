@@ -22,7 +22,7 @@
 
 
 
-- 📫 Message me via github or contacts liste on my profile.
+- 📫 Message me via github or contacts listed on my profile.
 
 
 <!---
