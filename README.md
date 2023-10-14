@@ -1,4 +1,4 @@
-- 👋 Hi, I am Rajiv Giri and I am a Technology Enthusiast with diverse operational experience in developing, testing and supporting multiple language/OS, desktop, Retail POS, android/mobile and web applications.
+- 👋 Hi, I am Raj G, a Technology Enthusiast with diverse operational experience in developing, testing and supporting multiple language/OS, desktop, Retail POS, android/mobile and web applications.
 
 
 
